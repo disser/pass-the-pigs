@@ -27,4 +27,7 @@ Example:
     Strategy Threshold:10 win%: 44.00
     Strategy Threshold:20 win%: 56.00
     
+Credits
+-------
 
+http://passpigs.tripod.com/prob.html for probabilities of each roll.
